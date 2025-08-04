@@ -1,6 +1,6 @@
 <img src="Frame 16.png" alt="escaperr">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=014458&width=435&lines=Welcome+to+escaperr's+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=014458&center=true&vCenter=true&width=435&lines=Welcome+to+escaperr's+github)](https://git.io/typing-svg)
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -25,7 +25,7 @@
 </pre>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zhumingyi94&title_color=dfae6d&icon_color=5b7abf&text_color=e8e6e6&bg_color=2c3c54&show_icons=true&hide_border=true" alt="Github Stats" width="54%">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=zhumingyi94&theme=dark&hide_border=true" alt="Github Streak" width="54%">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=escaperr94&theme=transparent&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
