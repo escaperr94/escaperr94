@@ -16,7 +16,7 @@
 
 ---
 
-<img src="Frame 20.png" align="right" width=280>
+<img src="Frame 20.png" align="left" width=280>
 <pre>
     💼 UET @ VNU • Learner • Developer 
     💻 Reinforcement Learning • Natural Language Processing • Computer Vision
@@ -24,7 +24,6 @@
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
 </pre>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zhumingyi94&title_color=dfae6d&icon_color=5b7abf&text_color=e8e6e6&bg_color=2c3c54&show_icons=true&hide_border=true" alt="Github Stats" width="54%">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=escaperr94&theme=transparent&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
