@@ -16,7 +16,7 @@
 
 ---
 
-<img src="Frame 20.png" align="left" width=255>
+<img src="Frame 20.png" align="left" width=250>
 <pre>
     💼 UET @ VNU • Learner • Developer 
     💻 Reinforcement Learning • Natural Language Processing • Computer Vision
