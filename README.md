@@ -1,6 +1,6 @@
 <img src="Frame 16.png" alt="escaperr">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&duration=4000&pause=50&color=014458FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=70&lines=I+am+escaperr.;+A+Computer+Science+and+AI+enthusiast.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&duration=4000&pause=50&color=014458FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=70&lines=I+am+escaperr.;+A+Computer+Science+and+AI+enthusiast.)](https://git.io/typing-svg)
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -25,6 +25,7 @@
 </pre>
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=escaperr94&theme=transparent&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
+    <img src="Frame 100.png" alt="hello">
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
