@@ -1,6 +1,6 @@
 <img src="Frame 16.png" alt="escaperr">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=014458&center=true&vCenter=true&width=435&lines=Welcome+to+escaperr's+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Serif+Japanese&duration=4000&pause=50&color=014458FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=70&lines=I+am+escaperr.;+A+Computer+Science+and+AI+enthusiast.)](https://git.io/typing-svg)
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
