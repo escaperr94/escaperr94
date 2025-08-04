@@ -18,7 +18,7 @@
 
 <img src="Frame 20.png" align="left" width=250>
 <pre>
-    💼 UET @ VNU • Learner • Developer 
+    💼 Learner • Builder • Dreamer
     💻 Reinforcement Learning • Natural Language Processing • Computer Vision
     📖 Tensor Decomposition • Optimization • Probabilistic Graphical Model 
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
