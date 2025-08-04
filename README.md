@@ -25,7 +25,7 @@
 </pre>
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=escaperr94&theme=transparent&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
-    <img src="Frame 100.png" width=500 alt="a builder">
+    <img src="Frame 100.png" width=540 alt="a builder">
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
