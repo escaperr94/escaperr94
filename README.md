@@ -20,7 +20,7 @@
 <pre>
     💼 UET @ VNU • Learner • Developer 
     💻 Reinforcement Learning • Natural Language Processing • Computer Vision
-    📖  Tensor Decomposition • Optimization • Probabilistic Graphical Model 
+    📖 Tensor Decomposition • Optimization • Probabilistic Graphical Model 
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
 </pre>
 <div align="center">
