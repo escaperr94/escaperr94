@@ -24,7 +24,7 @@
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
 </pre>
 <div align="center">    
-    <pre align="center">
+    <pre align="center"> <code style="font-size: 10px;">
           _____                    _____                    _____                    _____                    _____                    _____                    _____                    _____          
          /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
         /::\    \                /::\    \                /::\    \                /::\    \                /::\    \                /::\    \                /::\    \                /::\    \        
@@ -48,6 +48,7 @@
          \/____/                  \/____/                  \/____/                  \/____/                                           \/____/                  \|___|                   \|___|          
                                                                                                                                                                                                         
 
+    </code>
     <pre align="center">
     <img src="Frame 100.png" width=540 alt="a builder">
 </div>
