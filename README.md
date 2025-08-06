@@ -23,8 +23,7 @@
     📖 Tensor Decomposition • Optimization • Probabilistic Graphical Model 
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
 </pre>
-<div align="center"> 
-    
+<div align="center">
     <img src="Frame 100.png" width=540 alt="a builder">
 </div>
 
