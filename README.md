@@ -19,7 +19,7 @@
 <img src="Frame 20.png" align="left" width=250>
 <pre>
     💼 Learner • Builder • Dreamer
-    💻 Reinforcement Learning • Natural Language Processing • Computer Vision
+    💻 Reinforcement Learning • NLP • Computer Vision
     📖 Tensor Decomposition • Optimization • Probabilistic Graphical Model 
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
 </pre>
