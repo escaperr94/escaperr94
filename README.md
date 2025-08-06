@@ -23,8 +23,9 @@
     📖 Tensor Decomposition • Optimization • Probabilistic Graphical Model 
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
 </pre>
-<div align="center">    
-    <pre align="center"> <code style="font-size: 10px;">
+<div align="center"> 
+      <pre style="font-size: 10px; max-width: 90vw; white-space: pre-wrap;">
+
           _____                    _____                    _____                    _____                    _____                    _____                    _____                    _____          
          /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
         /::\    \                /::\    \                /::\    \                /::\    \                /::\    \                /::\    \                /::\    \                /::\    \        
@@ -47,9 +48,7 @@
         \::/    /                \::/    /                \::/    /                \::/    /                                         \::/    /                \:|   |                  \:|   |          
          \/____/                  \/____/                  \/____/                  \/____/                                           \/____/                  \|___|                   \|___|          
                                                                                                                                                                                                         
-
-    </code>
-    <pre align="center">
+    </pre>
     <img src="Frame 100.png" width=540 alt="a builder">
 </div>
 
@@ -74,4 +73,3 @@
 [TensorFlow-url]: https://www.tensorflow.org/
 [Spring-boot-badge]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
 [Spring-boot-url]: https://spring.io/projects/spring-boot
-oke file đây, hiệu chỉnh lại đi 
