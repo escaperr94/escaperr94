@@ -17,15 +17,7 @@
 ---
 
 <img src="Frame 20.png" align="left" width=250>
-
-<div align="center">
-    <pre>
-    💼 Learner • Builder • Dreamer
-    💻 Reinforcement Learning • NLP • Computer Vision
-    📖 Tensor Decomposition • Optimization  
-    🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
-</pre>
-    <img src="Frame 100.png" width=540 alt="a builder">
+    <img src="Frame 100.png" width=700 alt="a builder">
 </div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
