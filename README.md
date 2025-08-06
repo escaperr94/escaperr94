@@ -16,10 +16,6 @@
 
 ---
 
-<img src="Frame 20.png" align="left" width=250>
-    <img src="Frame 100.png" width=700 alt="a builder">
-</div>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
