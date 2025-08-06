@@ -24,7 +24,7 @@
     🎮 Ghost of Tsushima • World Trigger • Guitar • Origami
 </pre>
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=escaperr94&theme=transparent&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=escaperr94&theme=transparent&hide_border=true&border_radius=5&short_numbers=true" alt="GitHub Streak" />
     <img src="Frame 100.png" width=540 alt="a builder">
 </div>
 
